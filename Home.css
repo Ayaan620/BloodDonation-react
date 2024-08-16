@@ -1,0 +1,14 @@
+.home .jumbotron {
+    background-color: #dc3545;
+    color: white;
+    padding: 50px;
+    border-radius: 8px;
+  }
+  
+  .home .jumbotron h1 {
+    font-size: 2.5rem;
+  }
+  
+  .home .jumbotron p.lead {
+    font-size: 1.25rem;
+  }
